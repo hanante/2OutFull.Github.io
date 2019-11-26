@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Related Work copy"
+title:  "V. Related Work (e.g., existing studies)"
 date:   2019-11-04 03:00:08
 categories: Lorem
 comments: true
