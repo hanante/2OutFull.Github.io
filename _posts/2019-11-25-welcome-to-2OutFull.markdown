@@ -8,10 +8,10 @@ comments: true
 
 # 우리의 팀 멤버를 소개합니다.
 
-Team Name : 2OutFull
+팀명 : 2OutFull
 
-Member 1 : 이영훈, 	Student ID : 2014002460<br>
-Member 2 : 윤재희, 	Student ID : 2017059243<br>
-Member 3 : 이하민, 	Student ID : 2017029134<br>
-Member 4 : 허지원, 	Student ID : 2017029098<br>
-Member 5 : 최지수, 	Student ID : 2017029216<br>
+이영훈, 	    2014002460<br>
+윤재희, 	정보시스템학과  2017059243<br>
+이하민, 	정보시스템학과  2017029134<br>
+허지원, 	정보시스템학과  2017029098<br>
+최지수, 	정보시스템학과  2017029216<br>
