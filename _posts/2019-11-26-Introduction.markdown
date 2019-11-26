@@ -6,4 +6,4 @@ categories: Lorem
 comments: true
 ---
 - Motivation: Why are you doing this? <br>
-- What do you want to see at the end?
+- What do you want to see at the end? <br>
