@@ -11,7 +11,7 @@ Among them, MLB is based on high-level data technologies such as Sabermetrics.<b
 These data technologies are also easily accessible when we watching the MLB game of Korean players'such as Ryu Hyun-jin, Choo Shin-soo and Choi Ji-man.<br>
 However, there is alimitation that it is one-way data providing. That means we are only able toaccess data that broadcaster and commentators provided. We cannot get the datathat we are wondering. <br>
 So we want to provideuser-friendly baseball data using NUGU AI speakers in voice to provide a lot ofinteresting information that users want.<br>
-We will use (이부분 수정)MLB-StatsAPI(https://pypi.org/project/MLB-StatsAPI/)and other APIs to build the application. And we will use NUGU API and speakertoo. For server side, we will use AWS EC2(provisional).<br>
+We will use MLB-StatsAPI(https://pypi.org/project/MLB-StatsAPI/)and other APIs to build the application. And we will use NUGU API and speakertoo. For server side, we will use AWS EC2(provisional).<br>
 First, we provide gameschedule for requested teams and players. And then if users ask some data,application will provide data in voice.<br>
 In particular, we will provide a variety of interesting data, including basicstats, and situational statistic data etc focusing on Korean players<br>
 We will also provide avoice function that explains baseball's stat analysis terms to help usersunderstand them and other external element data.<br>
