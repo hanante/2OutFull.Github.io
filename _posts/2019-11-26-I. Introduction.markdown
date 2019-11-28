@@ -5,7 +5,7 @@ date:   2019-11-26 18:10:08
 categories: Lorem
 comments: true
 ---
-# - Motivation: Why are you doing this? <br>
+## - Motivation: Why are you doing this? <br>
 <pre>
 Modern sports are data-basedsports. Among them, MLB is based on high-level data technologies such as Sabermetrics. <br>
 These data technologies are also easily accessible when we watching the MLB game of Korean players'such as Ryu Hyun-jin, Choo Shin-soo and Choi Ji-man. <br>
@@ -20,7 +20,7 @@ Finally, by theseprovided data, we build simple algorithm to predict the winner,
 </pre>
 <br>
 <br>
-# - What do you want to see at the end? <br>
+## - What do you want to see at the end? <br>
 <pre>
 예시)<br>
 	-선수의 스탯/성적<br>
