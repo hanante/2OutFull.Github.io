@@ -8,7 +8,14 @@ comments: true
 # - Motivation: Why are you doing this? <br>
 <pre>
 Modern sports are data-basedsports. Among them, MLB is based on high-level data technologies such as Sabermetrics. <br>
-These data technologies are also easily accessible when we watching the MLB game of Korean players'such as Ryu Hyun-jin, <br> Choo Shin-soo and Choi Ji-man. However, there is alimitation that it is one-way data providing. That means we are only able <br> toaccess data that broadcaster and commentators provided. We cannot get the datathat we are wondering. So we want to<br> provideuser-friendly baseball data using NUGU AI speakers in voice to provide a lot ofinteresting information that users want.<br> We will use MLB-StatsAPI(https://pypi.org/project/MLB-StatsAPI/)and other APIs to build the application. And we will use<br> NUGU API and speakertoo. For server side, we will use AWS EC2(provisional). First, we provide gameschedule for requested teams and players. And then if users ask some data,application will provide data in voice. In particular, we will provide a variety of interesting data, including basicstats, and situational statistic data etc focusing on Korean players We will also provide avoice function that explains baseball's stat analysis terms to help usersunderstand them and other external element data. Finally, by theseprovided data, we build simple algorithm to predict the winner, and tell theusers when asked.
+These data technologies are also easily accessible when we watching the MLB game of Korean players'such as Ryu Hyun-jin, Choo Shin-soo and Choi Ji-man. <br>
+However, there is alimitation that it is one-way data providing. That means we are only able <br> toaccess data that broadcaster and commentators provided. We cannot get the datathat we are wondering. <br>
+So we want to<br> provideuser-friendly baseball data using NUGU AI speakers in voice to provide a lot ofinteresting information that users want.<br> 
+We will use MLB-StatsAPI(https://pypi.org/project/MLB-StatsAPI/)and other APIs to build the application. <br>
+And we will use<br> NUGU API and speakertoo. For server side, we will use AWS EC2(provisional). <br>
+First, we provide gameschedule for requested teams and players. And then if users ask some data,application will provide data in voice. <br>
+In particular, we will provide a variety of interesting data, including basicstats, and situational statistic data etc focusing on Korean players We will also provide avoice function that explains baseball's stat analysis terms to help usersunderstand them and other external element data. <br>
+Finally, by theseprovided data, we build simple algorithm to predict the winner, and tell theusers when asked.<br>
 만일 빠른 시일 내에 위 프로그램을 완성한다면, 해당 프로그램의 틀을 기반으로 football-data-api==0.0.6(https://pypi.org/project/football-data-api/0.0.6/)와 같은<br> API를 사용하여 사용자가 원하는 정보를 제공하는 시스템을 다른 스포츠 버전으로도 만들 계획입니다.
 </pre>
 <br>
