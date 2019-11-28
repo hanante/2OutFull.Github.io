@@ -7,7 +7,6 @@ comments: true
 ---
 
 우리는 API를 적극적으로 활용하여 다음과 같은 데이터를 수집하였습니다.<br>
-
 	1.	Basic game schedule By teams, by players.<br>
 	2.	Basic stat Season pitching stats, career hitting stats, Season Team stats etc…<br>
 	3.	Player’s situational statistic data Pitcher vs Batter stat, Pitcher vs Opponent, Player’s situational records, Pitchers’ situational pitching patterns etc…<br>
