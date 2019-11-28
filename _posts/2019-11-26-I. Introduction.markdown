@@ -20,7 +20,7 @@ Finally, by theseprovided data, we build simple algorithm to predict the winner,
 </pre>
 <br>
 <br>
-### - What do you want to see at the end? <br>
+## - What do you want to see at the end? <br>
 <pre>
 예시)<br>
 	-선수의 스탯/성적<br>
