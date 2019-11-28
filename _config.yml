@@ -16,7 +16,7 @@ github: https://github.com/2OutFull
 disqus_shortname: "hamin"
 google_analytics: UA-52446115-1
 
-paginate: 2
+paginate: 10
 comments: true
 paginate_path: "/page/:num"
 
