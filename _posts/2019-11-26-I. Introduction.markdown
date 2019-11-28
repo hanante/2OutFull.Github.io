@@ -17,7 +17,8 @@ First, we provide gameschedule for requested teams and players. And then if user
 In particular, we will provide a variety of interesting data, including basicstats, and situational statistic data etc focusing on Korean players<br>
 We will also provide avoice function that explains baseball's stat analysis terms to help usersunderstand them and other external element data.<br>
 Finally, by theseprovided data, we build simple algorithm to predict the winner, and tell theusers when asked.<br>
-만일 빠른 시일 내에 위 프로그램을 완성한다면, 해당 프로그램의 틀을 기반으로 (임시)football-data-api==0.0.6(https://pypi.org/project/football-data-api/0.0.6/)와 같은 API를 사용하여
+만일 빠른 시일 내에 위 프로그램을 완성한다면, 해당 프로그램의 틀을 기반으로 <br>
+football-data-api==0.0.6(https://pypi.org/project/football-data-api/0.0.6/)와 같은 API를 사용하여
 사용자가 원하는 정보를 제공하는 시스템을 다른 스포츠 버전으로도 만들 계획입니다.
 </pre>
 <br>
