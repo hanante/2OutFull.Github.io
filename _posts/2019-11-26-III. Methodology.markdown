@@ -6,14 +6,7 @@ categories: Lorem
 comments: true
 ---
 
-Explaining your choice of algorithms (methods)<br>
-Explaining features or code (if any)<br>
-<br>
-IV. Evaluation & Analysis<br>
-Graphs, tables, any statistics (if any)<br>
-<br>
-V. Related Work (e.g., existing studies)<br>
--><br>
+
 (서버) django<br>
 	1. https://www.django-rest-framework.org/tutorial/quickstart/<br>
 (야구 - 선수 스탯) <br>
